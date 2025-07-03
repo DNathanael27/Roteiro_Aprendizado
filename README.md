@@ -1,25 +1,25 @@
-# Roteiro de Aprendizado em C#
+# Roteiro de Aprendizado em C# 🚀
 
 Este repositório reúne um roteiro de estudos para aprender lógica de programação e C#, desde os primeiros passos até o aprofundamento em C# e .NET.
 
-## 1. Introdução à Lógica de Programação com C
+## 1. Introdução à Lógica de Programação com C 🧩
 
 - **Curso:** [Introdução à Lógica de Programação com C (FIAP)](https://on.fiap.com.br/nano-courses/course/?id=13043)  
   Comece aprendendo os fundamentos da lógica de programação utilizando a linguagem C. Este curso é ideal para iniciantes que desejam construir uma base sólida antes de avançar para C#.
 
-## 2. Iniciando no C#
+## 2. Iniciando no C# 💻
 
 - **Curso:** [C# e .NET - Curso Introdutório (Rocketseat)](https://app.rocketseat.com.br/journey/c-sharp-dot-net-curso-introdutorio/overview)  
   Após entender lógica, avance para a linguagem C# e conheça o ecossistema .NET, explorando os conceitos fundamentais da linguagem e desenvolvendo seus primeiros projetos.
 
-## 3. Aprofundamento em C# e .NET
+## 3. Aprofundamento em C# e .NET 🏆
 
 - **Curso:** [C# Completo Programação Orientada a Objetos + Projetos (Udemy)](https://www.udemy.com/share/101WB03@utUx47Xg_ekz2knNFfk_4CEqJQFoQE2Am_R8q5da50JA1iXRb9eEErHQQ7dBPzcdqg==/)  
   Para se aprofundar e dominar C# e .NET, este curso oferece conteúdos avançados, programação orientada a objetos e projetos práticos.
 
 ---
 
-## 4. Recomendações de Estudo
+## 4. Recomendações de Estudo 📚
 
 - Siga a ordem sugerida para garantir uma base sólida antes de avançar.
 - Realize todos os exercícios e desafios propostos nos cursos.
@@ -28,7 +28,7 @@ Este repositório reúne um roteiro de estudos para aprender lógica de programa
 
 ---
 
-## 5. Recursos Complementares
+## 5. Recursos Complementares 🔗
 
 - [Documentação Oficial do C# (Microsoft)](https://learn.microsoft.com/pt-br/dotnet/csharp/)
 - [Comunidade C# Brasil](https://www.facebook.com/groups/csharperos/)
@@ -36,13 +36,13 @@ Este repositório reúne um roteiro de estudos para aprender lógica de programa
 
 ---
 
-# Roteiro de Aprendizado de Python
+# Roteiro de Aprendizado de Python 🐍
 
 Este roteiro foi criado para guiar iniciantes e intermediários no aprendizado de Python, utilizando cursos online gratuitos e pagos, organizados de forma progressiva para maximizar o entendimento e a prática da linguagem.
 
 ---
 
-## 1. Introdução ao Python
+## 1. Introdução ao Python 🌱
 
 Antes de avançar para tópicos mais complexos, é fundamental compreender os conceitos básicos da linguagem. Os cursos abaixo são ideais para quem está começando:
 
@@ -58,7 +58,7 @@ Antes de avançar para tópicos mais complexos, é fundamental compreender os co
 
 ---
 
-## 2. Python do Básico ao Avançado
+## 2. Python do Básico ao Avançado 🚀
 
 Após dominar o básico, aprofunde seus conhecimentos e explore tópicos avançados para se tornar um desenvolvedor mais completo. O curso abaixo oferece uma jornada completa:
 
@@ -75,7 +75,7 @@ Após dominar o básico, aprofunde seus conhecimentos e explore tópicos avança
 
 ---
 
-## 3. Recomendações de Estudo
+## 3. Recomendações de Estudo 💡
 
 - Siga a ordem sugerida para garantir uma base sólida antes de avançar.
 - Realize todos os exercícios e desafios propostos nos cursos.
@@ -84,7 +84,7 @@ Após dominar o básico, aprofunde seus conhecimentos e explore tópicos avança
 
 ---
 
-## 4. Recursos Complementares
+## 4. Recursos Complementares 🌐
 
 - [Documentação Oficial do Python](https://docs.python.org/pt-br/3/)
 - [Python Brasil (comunidade)](https://python.org.br/)
@@ -92,4 +92,4 @@ Após dominar o básico, aprofunde seus conhecimentos e explore tópicos avança
 
 ---
 
-**Bons estudos e boa prática!**
+**Bons estudos e boa prática! ✨**
