@@ -1,4 +1,4 @@
-# Roteiro de Aprendizado em C# 🚀
+# Roteiro de Aprendizado Back-End 🚀
 
 Este repositório reúne um roteiro de estudos para aprender lógica de programação e C#, desde os primeiros passos até o aprofundamento em C# e .NET.
 
