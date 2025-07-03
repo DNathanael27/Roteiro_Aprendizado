@@ -1,34 +1,25 @@
-# Roteiro de Aprendizado de C#
+# Roteiro de Aprendizado em C#
 
-Este roteiro foi criado para guiar iniciantes e intermediários no aprendizado de C#, utilizando cursos online gratuitos e pagos, organizados de forma progressiva para maximizar o entendimento e a prática da linguagem.
+Este repositório reúne um roteiro de estudos para aprender lógica de programação e C#, desde os primeiros passos até o aprofundamento em C# e .NET.
 
----
+## 1. Introdução à Lógica de Programação com C
 
-## 1. Introdução ao C#
+- **Curso:** [Introdução à Lógica de Programação com C (FIAP)](https://on.fiap.com.br/nano-courses/course/?id=13043)  
+  Comece aprendendo os fundamentos da lógica de programação utilizando a linguagem C. Este curso é ideal para iniciantes que desejam construir uma base sólida antes de avançar para C#.
 
-Dê os primeiros passos na linguagem entendendo seus conceitos fundamentais:
+## 2. Iniciando no C#
 
-- **[Curso de C# – Fundamentos](https://www.youtube.com/playlist?list=PLHz_AreHm4dmDP_FW9T9b2C6e5b9lI7AA)**
-  - Sintaxe básica
-  - Tipos de dados, variáveis e operadores
-  - Controle de fluxo: if, else, switch, loops
+- **Curso:** [C# e .NET - Curso Introdutório (Rocketseat)](https://app.rocketseat.com.br/journey/c-sharp-dot-net-curso-introdutorio/overview)  
+  Após entender lógica, avance para a linguagem C# e conheça o ecossistema .NET, explorando os conceitos fundamentais da linguagem e desenvolvendo seus primeiros projetos.
 
----
+## 3. Aprofundamento em C# e .NET
 
-## 2. C# do Básico ao Avançado
-
-Após o domínio dos conceitos básicos, aprofunde-se em temas mais avançados:
-
-- **[C# Completo – Programação Orientada a Objetos + Projetos](https://www.udemy.com/course/programacao-orientada-a-objetos-csharp/)**
-  - Orientação a Objetos (POO)
-  - Manipulação de arquivos
-  - LINQ e expressões lambda
-  - Trabalhando com APIs e bancos de dados
-  - Projetos práticos
+- **Curso:** [C# Completo Programação Orientada a Objetos + Projetos (Udemy)](https://www.udemy.com/share/101WB03@utUx47Xg_ekz2knNFfk_4CEqJQFoQE2Am_R8q5da50JA1iXRb9eEErHQQ7dBPzcdqg==/)  
+  Para se aprofundar e dominar C# e .NET, este curso oferece conteúdos avançados, programação orientada a objetos e projetos práticos.
 
 ---
 
-## 3. Recomendações de Estudo
+## 4. Recomendações de Estudo
 
 - Siga a ordem sugerida para garantir uma base sólida antes de avançar.
 - Realize todos os exercícios e desafios propostos nos cursos.
@@ -37,7 +28,7 @@ Após o domínio dos conceitos básicos, aprofunde-se em temas mais avançados:
 
 ---
 
-## 4. Recursos Complementares
+## 5. Recursos Complementares
 
 - [Documentação Oficial do C# (Microsoft)](https://learn.microsoft.com/pt-br/dotnet/csharp/)
 - [Comunidade C# Brasil](https://www.facebook.com/groups/csharperos/)
